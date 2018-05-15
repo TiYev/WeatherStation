@@ -1,5 +1,5 @@
 # WeatherStation
-  Weather station is based on Atmega8 microcontroller and used such sensors:
+  Weather station is based on Atmega8 microcontroller and use such sensors:
   - BMP180 (atmospheric pressure);
   - DS18B20 (indoor temperature);
   - DS18B20 (outdoor temperature);
